@@ -178,7 +178,7 @@ a {
   align-items: center;
   background-color: #3882f6;
   margin: 50px 150px;
-  padding: 45px 30px;
+  padding: 40px 50px;
   border-radius: 8px;
   max-width: 800px;
 }
@@ -206,6 +206,7 @@ a {
   border-radius: 8px;
   border: #f9faf8 2px solid;
   font-size: 18px;
+  text-wrap: nowrap;
 }
 
 /* FOOTER */
